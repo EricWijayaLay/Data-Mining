@@ -1,0 +1,6 @@
+Kalimantan Barat,87.29,77.94,74.77,83.18,83.88
+Kalimantan Tengah,75.89,77.46,76.09,70.86,71.93
+Kalimantan Selatan,69.31,70.89,71.27,74.98,77.46
+Kalimantan Timur,91.68,91.24,89.81,87.78,88.89
+Kalimanta Utara,60.42,57.35,63.20,62.11,76.50
+
